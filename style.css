@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+    margin: 100px ;
+    width: 400px;
+    height: 30vh;
+    margin-top: 20px;
+    margin-left: 200px;
+    background-color: white;
+}
+#text{
+    color: black;
+    margin: 30px;
+}
